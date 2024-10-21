@@ -1,4 +1,5 @@
 # ドーム型枕 surroundify
+JPHACKS 2018 参加作品 🏆Finalist Award / イノベータ認定 / フューチャーアーキテクト賞
 
 ![surroundify](https://user-images.githubusercontent.com/20007063/47612449-022dd680-dabe-11e8-81ea-9b40fbb946c7.png)
 
